@@ -1,0 +1,5 @@
+(executable
+ (name explore)
+ (public_name explore)
+ (libraries notty notty.lwt)
+ )
